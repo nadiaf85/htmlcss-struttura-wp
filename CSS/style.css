@@ -5,7 +5,7 @@ body{
 .container1{
     height: 100px;
     width: 100%;
-    background-color: plum;
+    background-color: Orchid;
     margin-bottom: 20px;
 }
 
@@ -18,7 +18,7 @@ body{
 .container2{
     height: 400px;
     width: 100%;
-    background-color: yellowgreen;
+    background-color: Khaki;
     margin-bottom: 20px;
 }
 
@@ -48,11 +48,11 @@ body{
 }
 
 .lato-sx{
-    float: left;
-    width: 20%;
-    height: 400px;
+    width: 25%;
+    height: 486px;
     background-color: mediumblue;
     box-sizing: border-box;
+    float: left;
 }
 
 .centrale{
@@ -65,8 +65,8 @@ body{
 }
 
 .lato-dx{
-    width: 20%;
-    height: 400px;
+    width: 25%;
+    height: 486px;
     background-color: mediumblue;
     box-sizing: border-box;
     float: right;
@@ -80,6 +80,6 @@ body{
     content: "";
     height: 50px;
     width: 100%;
-    background-color: purple;
+    background-color: BlueViolet;
     margin-top: 0,5%;
 }
