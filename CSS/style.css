@@ -1,0 +1,39 @@
+body{
+    padding: 60px;
+}
+.container1{
+    content: "";
+    height: 100px;
+    width: 100%;
+    background-color: plum;
+    margin: 1,5% 0;
+}
+
+.container2{
+    content: "";
+    height: 300px;
+    width: 100%;
+    background-color: yellowgreen;
+    margin-top: 2%;
+    margin-bottom: 2%;
+}
+
+.container3{
+    content: "";
+    height: 500px;
+    width: 100%;
+    background-color: lightblue;
+    margin-bottom: 1%;
+}
+
+.container4{
+    content: "";
+    height: 50px;
+    width: 100%;
+    background-color: purple;
+}
+
+.main1, .main2{
+    margin-top: 2%;
+    margin-bottom: 2%;
+}
